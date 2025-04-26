@@ -1,0 +1,14 @@
+c:\Users\Facu\Desktop\progra 3\GestionClub\bin\Debug\net9.0\GestionClub.exe
+C:\Users\Facu\Desktop\progra 3\GestionClub\bin\Debug\net9.0\GestionClub.deps.json
+C:\Users\Facu\Desktop\progra 3\GestionClub\bin\Debug\net9.0\GestionClub.runtimeconfig.json
+c:\Users\Facu\Desktop\progra 3\GestionClub\bin\Debug\net9.0\GestionClub.dll
+c:\Users\Facu\Desktop\progra 3\GestionClub\bin\Debug\net9.0\GestionClub.pdb
+c:\Users\Facu\Desktop\progra 3\GestionClub\obj\Debug\net9.0\GestionClub.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Facu\Desktop\progra 3\GestionClub\obj\Debug\net9.0\GestionClub.AssemblyInfoInputs.cache
+c:\Users\Facu\Desktop\progra 3\GestionClub\obj\Debug\net9.0\GestionClub.AssemblyInfo.cs
+c:\Users\Facu\Desktop\progra 3\GestionClub\obj\Debug\net9.0\GestionClub.csproj.CoreCompileInputs.cache
+c:\Users\Facu\Desktop\progra 3\GestionClub\obj\Debug\net9.0\GestionClub.dll
+c:\Users\Facu\Desktop\progra 3\GestionClub\obj\Debug\net9.0\refint\GestionClub.dll
+c:\Users\Facu\Desktop\progra 3\GestionClub\obj\Debug\net9.0\GestionClub.pdb
+C:\Users\Facu\Desktop\progra 3\GestionClub\obj\Debug\net9.0\GestionClub.genruntimeconfig.cache
+C:\Users\Facu\Desktop\progra 3\GestionClub\obj\Debug\net9.0\ref\GestionClub.dll
